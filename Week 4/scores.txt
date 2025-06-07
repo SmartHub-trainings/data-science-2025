@@ -1,0 +1,7 @@
+Name,score
+Smith,44
+Esther,87
+Clayton,4
+Charles,99
+Okon,31
+ChemChris,74
